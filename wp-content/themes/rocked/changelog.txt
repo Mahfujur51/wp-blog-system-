@@ -1,0 +1,15 @@
+Changelog
+
+1.08 - 26 April 2016 - fix for numeric inputs styling.
+
+1.07 - no info
+
+16 October 2015 - 1.06
+--------------------------------------
+- fixed logo sizing;
+- fixed row color option;
+- added missing image size;
+- added exceptions for WC and Buddypress in the smooth scroll code;
+- added theme info page;
+- minified scripts file.
+
